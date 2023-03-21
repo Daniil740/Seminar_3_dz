@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bryukvin_Daniil_Zadanie_23/1.0.0": {
+        "runtime": {
+          "Bryukvin_Daniil_Zadanie_23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bryukvin_Daniil_Zadanie_23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
